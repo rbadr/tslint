@@ -142,7 +142,7 @@ tslint accepts the following command-line options:
 
 The CLI process may exit with the following codes:
 
-- `0`: Linting succeeded without errors (warnings may have ocurred)
+- `0`: Linting succeeded without errors (warnings may have occurred)
 - `1`: An invalid command line argument or combination thereof was used
 - `2`: Linting failed with one or more rule violations with severity `error`
 
